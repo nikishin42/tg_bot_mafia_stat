@@ -1,3 +1,3 @@
 #!/bin/sh
 
-export TOKEN=''
+export TOKEN='a'
